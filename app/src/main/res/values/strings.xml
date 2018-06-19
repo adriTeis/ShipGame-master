@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShipGame</string>
+    <string name="name">Ship Game</string>
+    <string name="Facil">Facil</string>
+    <string name="Medio">Medio</string>
+    <string name="Dificil">Dificil</string>
+    <string name="jugar">Jugar</string>
+    <string name="Usuario">Usuario</string>
+    <string name="IndiqueDifucltad">Indicar Nivel Dificultad</string>
+    <string name="verRecord">Mostrar records</string>
+
+
+</resources>

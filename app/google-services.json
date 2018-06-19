@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "813767506263",
+    "firebase_url": "https://projectonaves-5864c.firebaseio.com",
+    "project_id": "projectonaves-5864c",
+    "storage_bucket": "projectonaves-5864c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813767506263:android:8a284a50d00f814c",
+        "android_client_info": {
+          "package_name": "spinoffpyme.com.shipgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813767506263-8l9gke17dpb7j1cghl5eduk0vl1uodc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAXXJL8IU4lFeaKTvYQQf8nRQKcU8Q3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
